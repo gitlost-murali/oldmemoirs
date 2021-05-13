@@ -8,4 +8,4 @@ Hello, good to see you here. This is where I express my thoughts and experiences
 
 
 
-[^1]: a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[^1]: Technical blogs related to Machine Learning, NLP & Tooling
