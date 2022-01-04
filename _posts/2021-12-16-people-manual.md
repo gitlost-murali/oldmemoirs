@@ -45,8 +45,6 @@ Alcohol is an uninvited and unplanned guest in my life. Since it has been only a
 
 2. If I'm comfortable, I would enjoy my time having conversation with you. I would prefer **you** over alcohol.
 
-3. Surprisingly, I met a few people who drink to do things under the disguise of being drunk. Unfortunately, I can detect this bullshit easily. Accept yourself and your wants/needs. Try talking to me when sober. I'm great at pulling off these kind of conversations. Please don't repeat _you're drunk_ just after the first drink and every drink that follows.
-
 ## Badmouthing
 {% include tip.html content="Dissociating the political aspects of it, the word bitching usually refers to badmouthing." %}
 
