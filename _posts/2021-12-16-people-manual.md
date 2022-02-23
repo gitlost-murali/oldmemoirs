@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: Speaks about my thinking in social & professional domains.
+description: Speaks about my thinking in social context.
 categories: [reflection]
 title: People's Manual
 permalink: mymanual
