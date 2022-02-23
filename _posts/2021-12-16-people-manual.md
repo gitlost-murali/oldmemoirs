@@ -20,7 +20,7 @@ This post serves two purposes:
 
 ## My quirks
 
-* I’m an ambivert. I can party hard and enjoy my solitude as well.
+* I’m an ambivert. I can party hard and also enjoy my solitude as well.
 * My silence and lack of small talk may discomfort you. Please excuse me.
 * With all modesty, I don't get angry.
 
@@ -34,8 +34,23 @@ This post serves two purposes:
 * Use few words – whether written or spoken. _Don’t ramble_. I pick up fast. I’ll ask if I don’t understand.
 * I like conversations. We can talk about something trivial to non-trivial. But definitely not badmouthing people. More in the later sections.
 * Specifically, I always welcome technical interaction. I may be busy, but please reach out to me. I appreciate it.
-* I’m a late morning person. Many others are early morning people. So I’m generally free after 10:30am.
+* I’m a late morning person. Many others are early morning people. So I’m generally free after 11:00am.
 * I’m very open to new ideas. If I resist, try again after a day or two. **I have strong opinions held weakly** (i.e. I change them quickly when convinced otherwise.)
+
+## Social Conversations
+
+* In gatherings of 3+ people, I tend to be quiet since it's difficult to find a common topic and if there's some success, that's going to be the most trivial & boring thing.
+
+## Badmouthing
+
+Quoting Sirivennela Sastry garu, 
+>"శత్రువులు నీకున్న లోపాలే, స్నేహితులు నీకున్న ఇష్టాలే"
+
+This roughly translates to 
+
+_"All your friends reflect your interests. All your enemies reflect your drawbacks."_
+
+* I neither encourage nor enjoy discussing bad aspects of a 3rd person.
 
 ## Alcohol
 
@@ -44,26 +59,6 @@ Alcohol is an uninvited and unplanned guest in my life. Since it has been only a
 1. If I'm uncomfortable around the people I'm drinking with, I binge drink to ease myself.
 
 2. If I'm comfortable, I would enjoy my time having conversation with you. I would prefer **you** over alcohol.
-
-## Badmouthing
-{% include tip.html content="Dissociating the political aspects of it, the word bitching usually refers to badmouthing." %}
-
-This aspect alone talks alot about your insecurities and makes a huge difference in our friendship. I regret every second of mine hearing your futile opinion/rant about a 3rd person who's not in the spot. It will pull you down in others' eyes. I would prefer solitude over spending time with you. 
-
-Quoting Sirivennela Sastry garu, 
->"శత్రువులు నీకున్న లోపాలే, స్నేహితులు నీకున్న ఇష్టాలే"
-
-This roughly translates to 
-
-"All your friends reflect your interests. All your enemies reflect your drawbacks."
-
-### Specifics: The Nuances
-I have my drawbacks as well. Infact, a person without drawbacks is an enigma to me. What matters is, _"what **kind of** drawbacks?"_. If you are angry with almost everyone around you, you've made a living hell around yourself. If the presence of a person is making you angry, you've handed over the authority to that person.
-
-### Specifics: The Nuances: 3rd Person?
-If you're bitching about a political figure or even a professor's inefficiency, I am okay with it. I'm not comfortable badmouthing our peers. Outright, NO.
-
-It might seem tough but there are a lot of other things we can talk about. Many trivial things too. Ok, I end this with a caustic sentence : __"How pathetic should you be to remember your enemies and feel much worse."__
 
 ## Willing to accept
 
