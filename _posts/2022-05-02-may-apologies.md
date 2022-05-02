@@ -9,6 +9,8 @@ permalink: oof
 
 # About
 
+Ideally, I wanted to use this platform for writing a farewell message to everyone but this post came first. 
+
 This is specifically for HAP/LAP students. Apologies for the rudeness that may appear merely or abundantly. The current month, May, is beyond doubt overwhelming for all of us. Besides the submissions, I need to cope up with my 2nd year university coordinator's lazyness/apathy and complete my registration, visa process in __record time__. In between all this, I started lifting, thereby limiting the carbs intake. For those unaware, limited carbs -> limited patience. So, things are going to get a lot crazier from my side. This post is a helpless attempt to ask forgiveness for my future behaviour.
 
 ## The last minute stuff
