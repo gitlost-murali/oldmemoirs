@@ -26,6 +26,9 @@ The only decided factor is what works best for the project.
 
 ## For Hoder's sake, RESPOND
 
-If you have work, I understand. Absolutely no problem if you cannot work too. But, **Please** respond in the group. I'm not asking you out on a dinner date. Just like my last sentence, I may get pushy to make you respond to a meeting date/time.
+If you have work, I understand. Absolutely no problem if you cannot work too. But, **Please** respond in the group. Replying after 3-4 days is futile. I'm not asking you out on a dinner date to feel bad when you say No. Just like my last sentence, I may get pushy to make you respond to a meeting date/time.
 
 I think this helps you in your work life too. Regardless of how talented you are, if you are too shy to even respond, the path is going to be tough in Industry.
+
+
+That's it. That's all my madness.
